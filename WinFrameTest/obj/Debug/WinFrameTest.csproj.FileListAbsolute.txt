@@ -1,0 +1,7 @@
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\bin\Debug\WinFrameTest.exe.config
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\bin\Debug\WinFrameTest.exe
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\bin\Debug\WinFrameTest.pdb
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\obj\Debug\WinFrameTest.csprojAssemblyReference.cache
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\obj\Debug\WinFrameTest.csproj.CoreCompileInputs.cache
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\obj\Debug\WinFrameTest.exe
+C:\Users\SGajula\source\repos\WinFrameTest\WinFrameTest\obj\Debug\WinFrameTest.pdb
